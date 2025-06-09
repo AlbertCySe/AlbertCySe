@@ -1,12 +1,9 @@
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=AlbertCySe&label=Profile%20views&color=0e75b6&style=flat" alt="AlbertCySe" /> </p>
-
-
 <h1 align="center">Hi 👋, There</h1>
 <h3 align="center">I'm a MCA Graduate  🌱</h3>
 
 <img align="right" alt="suii" width="498" src="https://tenor.com/view/ronaldo-super-saiyan-pumped-yeah-soccer-gif-6123045.gif">
 
-
+![](https://komarev.com/ghpvc/?username=AlbertCySe&color=green)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
